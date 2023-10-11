@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color:white
+}
+dd{
+    color: white;
+}
+h3{
+    color: White;
+}
+body{
+    background-image: url(download\ \(8\)\ \(1\).jpg);
+}
+@font-face {
+    font-family:my_first_font ;
+    src: url(punk\ kid.ttf);
+}
+
+.hiphop{
+    display: inline-block;
+    font-family: my_first_font;
+    font-size: x-large;
+}
+h1{
+    font-family: my_first_font;
+}
+
+@font-face {
+    font-family: bolly;
+    src: url(Deanna.ttf);
+}
+.bollywood{
+    display: inline-block;
+    font-family: bolly;
+    font-size: 40px;
+}
+@font-face {
+    font-family:a90;
+    src: url(Flottflott.ttf);
+}
+.a90s{
+    display: inline-block;
+    font-family:a90;
+    font-size: 40px;
+
+}
+@font-face {
+    font-family:sports;
+    src: url(SFSportsNight.ttf);
+}
+.Sports{
+    display: inline-block;
+}
+@font-face {
+    font-family:motivation;
+    src: url(Durbank.ttf);
+}
+.Motivation{
+    display: inline-block;
+}
+@font-face {
+    font-family:tech;
+    src: url(TechnoBoard-519Ej.ttf);
+}
+.web_development{
+    display: inline-block;
+}
+dl{
+    font-family: my_first_font;
+    color: white;
+    font-size: xx-large;
+}

@@ -1,0 +1,1 @@
+alert("Mobile users should rotate your phone for better experience")
